@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>👨‍💻 Bruno Nascimento</h1>
-<h3>Desenvolvedor Full Stack | Criando soluções que conectam ideias à inovação</h3>
+<h3>Full Stack Developer | Creating solutions that connect ideas to innovation</h3>
 
-<p>Transformando desafios em soluções inteligentes com código limpo, propósito e paixão por tecnologia 🚀</p>
+<p>Turning challenges into intelligent solutions with clean code, purpose and a passion for technology 🚀</p>
 
 <a href="https://t.me/brunonascimentoferreira">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -16,17 +16,17 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-🎯 Sou um desenvolvedor Full Stack apaixonado por transformar ideias em soluções digitais reais.
+🎯 I'm a Full Stack developer with a passion for turning ideas into real digital solutions.
 
-💡 Tenho experiência em projetos que envolvem **automação, apps desktop (Electron), apps móveis (Android/Kotlin)** e **interfaces web modernas** com React e Angular.
+💡 I have experience in projects involving **automation, desktop apps (Electron), mobile apps (Android/Kotlin)** and **modern web interfaces** with React and Angular.
 
-📚 Estou constantemente aprendendo, adaptando e inovando para entregar software de qualidade com impacto real.
+📚 I'm constantly learning, adapting and innovating to deliver quality software with real impact.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   
@@ -36,24 +36,24 @@
 
 ---
 
-## 🧠 Habilidades em Destaque
+## 🧠 Featured Skills
 
-- 🔹 Desenvolvimento **Full Stack** com foco em performance e experiência do usuário
-- 🔹 Criação de **aplicações desktop multiplataforma** com Electron
-- 🔹 Apps Android nativos com Kotlin e integração com Firebase
-- 🔹 Integrações com APIs, bancos de dados, e automações inteligentes
-- 🔹 Projetos otimizados com foco em **escalabilidade e arquitetura limpa**
+- 🔹 Full-stack development with a focus on performance and user experience
+- 🔹 Creating cross-platform desktop applications with Electron
+- 🔹 Native Android apps with Kotlin and Firebase integration
+- 🔹 Integrations with APIs, databases and intelligent automations
+- 🔹 Optimized projects with a focus on **scalability and clean architecture**
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
 | Projeto | Descrição |
 |--------|-----------|
-| **📦 PixBot** | Automação de pagamentos via PIX com Electron + Python |
-| **📲 App de Fichas para Bares** | App Android nativo com integração a impressoras térmicas Bluetooth |
-| **🔐 Autenticador Firebase** | Login com autenticação segura em tempo real |
-| **📊 Dashboard Interativo** | Interface moderna com React + APIs REST customizadas |
+| **📦 PixBot** | Payment automation via PIX with Electron + Python |
+| **📲 Bar Token App** | Native Android app with integration to Bluetooth thermal printers |
+| **🔐 Firebase authenticator** | Login with secure real-time authentication |
+| **📊 Interactive Dashboard** | Modern interface with React + customized REST APIs |
 
 ---
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contact us
 
 - ✉️ **Email:** [nascimentob840@gmail.com](mailto:nascimentob840@gmail.com)  
 - ✈️ **Telegram:** [@brunonascimentoferreira](https://t.me/brunonascimentoferreira)
@@ -77,6 +77,6 @@
 
 <div align="center">
   
-  <b>✨ Vamos construir algo incrível juntos! ✨</b>
+  <b>✨ Let's build something incredible together! ✨</b>
 
 </div>
